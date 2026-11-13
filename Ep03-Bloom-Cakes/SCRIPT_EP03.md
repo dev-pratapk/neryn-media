@@ -29,7 +29,7 @@ Length: 59.73 s · voice preview: `ep03-voice-preview-v4.mp3` (the call is EQ'd 
 | 28.2–31.6 | Narrator (Prashant V) | இன்னொரு ஆள் வச்சா salary. வைக்கலன்னா loss. | Two giant lines, tangles between chips |
 | 32.5–34.8 | Narrator (Prashant V) | Okay. இதுக்கு ஒரு solution build பண்ணுவோம். | போதும். (0.65 s silence) → grid → kit: Tamil voice agent · 4 outlets · 24 hrs |
 | 35.2–38.5 | Narrator (Prashant V) | மித்ரா… human இல்ல. Neryn agent. | Back to the 11:40 PM call card: Mithra's avatar flips to a "Neryn Agent" badge. Chips: 24 hrs · 4 outlets · தமிழ் |
-| 38.8–43.2 | Meera, owner (Indu) | Calls-அ மித்ரா பாத்துக்குறாங்க. Customers-அ நம்ம staff பாத்துக்குறாங்க! | Day. Staff at the counter with customers; report card: Missed calls 0 |
+| 38.8–43.2 | Meera, owner (Ramaa) | Calls-அ மித்ரா பாத்துக்குறாங்க. Customers-அ நம்ம staff பாத்துக்குறாங்க! | Day. Staff at the counter with customers; report card: Missed calls 0 |
 | 43.5–46.6 | Narrator (Prashant V) | பாத்தீங்களா? Human இல்லன்னு கண்டுபிடிக்கவே முடியல. | Giant "மித்ரா" behind the phone, strike through "Human?" |
 | 46.9–50.7 | Narrator (Prashant V) | இவ்ளோ ஏன்… இவ்வளவு நேரம் பேசின நானும் ஒரு agent தான். | Narrator's own waveform fills the screen, chip: "இந்த voice-உம் Neryn agent" |
 | 51.0–53.8 | Narrator (Prashant V) | இந்த video-ல human… நீங்க மட்டும் தான். | Every voice label flips to "Agent" one by one; last card: "Human: நீங்க 👆" |
