@@ -31,20 +31,21 @@ VOICE = {
 }
 
 LINES = [
-    ("cold",  "S", "[nervous] Sir, hold-ல இருங்க… madam, ஒரு நிமிஷம்…"),
-    ("clock", "N", "சனிக்கிழமை ராத்திரி 8:40. Bloom Cakes-ஓட 4 outlets-க்கும் ஒரே number."),
-    ("hook",  "N", "2 staff, ₹36,000 salary. இருந்தும் 40 missed calls. ₹68,000 போச்சு!"),
-    ("stuck", "N", "இன்னொரு ஆள் வச்சா salary. வைக்கலன்னா loss."),
-    ("build", "N", "Okay. இதுக்கு ஒரு solution build பண்ணுவோம்."),
-    ("f1",    "N", "இனிமே எல்லா outlet call-உம் AI தான் எடுக்கும்."),
-    ("ai1",   "A", "வணக்கம்! Bloom Cakes. எந்த outlet-ல pick-up பண்றீங்க?"),
-    ("cust",  "P", "Anna Nagar. நாளைக்கு 1 kg chocolate, \"Happy Birthday Diya\"."),
-    ("ai2",   "A", "சூப்பர்! ₹1,700. Advance link WhatsApp-ல அனுப்புறேன்."),
-    ("twist", "N", "பாத்தீங்களா? இது AI-னு கண்டுபிடிக்கவே முடியல."),
-    ("meta",  "N", "இவ்ளோ ஏன்… இவ்வளவு நேரம் பேசின நானே ஒரு AI தான்."),
-    ("free",  "M", "[sighs] இப்போ staff phone-அ இல்ல… customers-அ கவனிக்கிறாங்க!"),
-    ("cta",   "N", "உங்க business-க்கும் AI receptionist வேணும்னா, comment-ல CALL-னு போடுங்க!"),
-    ("next",  "N", "அடுத்து என்ன build பண்ணணும்? உங்க problem-அ comment பண்ணுங்க!"),
+    # v3 structure: open on the AI call in a closed shop (mystery), rewind to the problem, turn, reveals, CTA
+    ("open1",  "A", "வணக்கம்! Bloom Cakes. சொல்லுங்க?"),
+    ("open2",  "P", "நாளைக்கு 1 kg chocolate cake வேணும். Anna Nagar-ல pick-up பண்றேன்."),
+    ("open3",  "A", "சூப்பர்! ₹1,700. Link WhatsApp-ல அனுப்புறேன்."),
+    ("who",    "N", "கடை மூடியாச்சு. அப்போ… இந்த call-அ எடுத்தது யாரு?"),
+    ("rewind", "N", "போன வாரம், இதே Bloom Cakes. 4 outlets-க்கும் ஒரே number."),
+    ("hook",   "N", "2 staff, ₹36,000 salary. இருந்தும் 40 missed calls. ₹68,000 போச்சு!"),
+    ("stuck",  "N", "இன்னொரு ஆள் வச்சா salary. வைக்கலன்னா loss."),
+    ("build",  "N", "Okay. இதுக்கு ஒரு solution build பண்ணுவோம்."),
+    ("reveal", "N", "அந்த call-அ எடுத்தது… AI."),
+    ("free",   "M", "[sighs] இப்போ staff phone-அ இல்ல… customers-அ கவனிக்கிறாங்க!"),
+    ("twist",  "N", "பாத்தீங்களா? இது AI-னு கண்டுபிடிக்கவே முடியல."),
+    ("meta",   "N", "இவ்ளோ ஏன்… இவ்வளவு நேரம் பேசின நானே ஒரு AI தான்."),
+    ("human",  "N", "இந்த video-ல human… நீங்க மட்டும் தான்."),
+    ("cta",    "N", "உங்க business-க்கும் AI receptionist வேணும்னா, comment-ல CALL-னு போடுங்க!"),
 ]
 
 
