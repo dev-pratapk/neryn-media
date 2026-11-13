@@ -3,12 +3,14 @@
 **Strategy.** The proof comes first: the film opens on the AI taking an order in a closed shop at 11:40 PM, and asks who answered.
 That question holds the viewer through the problem (salaries paid, calls still missed). The answer lands right after "போதும்.", then the
 reveals escalate (the receptionist is AI → you couldn't tell → the narrator is AI → the only human is you) so attention peaks just
-before the single call to action. The owner's line says what a mid-level owner needs to hear: staff aren't replaced, they go back to customers.
+before the single call to action, which says plainly that Neryn builds this for the viewer's business.
+The owner's line says what a mid-level owner needs to hear: staff aren't replaced, they go back to customers.
 
-Mid-level business: 4 outlets, one order number, 2 phone staff (₹36,000 salary), 40 missed calls a week × ₹1,700 = ₹68,000 (example numbers).
-CTA keyword: **CALL**. One CTA only; the "what should we build next?" ask moves to the end card and pinned comment. No "free"/"tool" wording.
+Mid-level business: 4 outlets, one order number, 2 phone staff (₹36,000 salary), 40 missed calls a week × ₹1,700 = ₹68,000.
+Bloom Cakes and its numbers are a demo story, not a client case. CTA keyword: **CALL**. One CTA only; the "what should we build next?"
+ask moves to the end card and pinned comment. No "free"/"tool" wording.
 
-Length: 58.75 s · voice preview: `ep03-voice-preview-v3.mp3` (the call is EQ'd like a phone line; the ring is a stand-in).
+Length: 58.64 s · voice preview: `ep03-voice-preview-v3.mp3` (the call is EQ'd like a phone line; the ring is a stand-in).
 All lines passed the ElevenLabs Scribe read-back (no dropped Tamil words).
 
 | Time (s) | Speaker | Line | On screen |
@@ -26,6 +28,6 @@ All lines passed the ElevenLabs Scribe read-back (no dropped Tamil words).
 | 43.0–46.1 | Narrator (Prashant V) | பாத்தீங்களா? இது AI-னு கண்டுபிடிக்கவே முடியல. | Giant "AI" behind the phone, strike through "Human?" |
 | 46.4–49.9 | Narrator (Prashant V) | இவ்ளோ ஏன்… இவ்வளவு நேரம் பேசின நானே ஒரு AI தான். | Narrator's own waveform fills the screen, chip: "இந்த voice-உம் AI" |
 | 50.2–53.3 | Narrator (Prashant V) | இந்த video-ல human… நீங்க மட்டும் தான். | Every voice label flips to AI one by one; last card: "Human: நீங்க 👆" |
-| 53.7–57.9 | Narrator (Prashant V) | உங்க business-க்கும் AI receptionist வேணும்னா, comment-ல CALL-னு போடுங்க! | Solution card (AI Receptionist, no FREE sticker) → comment box types CALL. End lockup text: "வேற problem? Comment பண்ணுங்க" |
+| 53.7–57.7 | Narrator (Prashant V) | உங்க business-க்கும் இதை நாங்க build பண்ணி தர்றோம். Comment-ல CALL-னு போடுங்க! | Card: "AI Receptionist · built by Neryn" → comment box types CALL. End lockup text: "வேற problem? Comment பண்ணுங்க" |
 
 Silent turn: "போதும்." at 31.64 s (0.65 s before "Okay.").
