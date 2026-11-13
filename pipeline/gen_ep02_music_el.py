@@ -60,6 +60,23 @@ BEDS = {
     },
 }
 
+# the "போதும்." turn (20.37 s): a short Tamil-mass style hit, original composition (no film reference)
+STING_NO = ["vocals", "slow intro", "build-up before the hit", "soft start", "silence at the start"]
+BEDS["stinger_a"] = {
+    "positive_global_styles": ["Tamil cinema mass hero-entry stinger", "huge thavil hit on the very first beat", "nadaswaram blast",
+                               "deep sub impact", "short and punchy", "ring-out tail"],
+    "negative_global_styles": STING_NO,
+    "sections": [{"section_name": "Hit", "duration_ms": 3000, "lines": [],
+                  "positive_local_styles": ["massive thavil and nadaswaram hit at 0 seconds", "then ring out"], "negative_local_styles": STING_NO}],
+}
+BEDS["stinger_b"] = {
+    "positive_global_styles": ["Tamil mass action stinger", "thavil roll ending in one giant hit on the first beat", "brass stab",
+                               "deep sub boom", "short and punchy", "ring-out tail"],
+    "negative_global_styles": STING_NO,
+    "sections": [{"section_name": "Hit", "duration_ms": 3000, "lines": [],
+                  "positive_local_styles": ["giant hit right at the start", "brass and sub boom", "then ring out"], "negative_local_styles": STING_NO}],
+}
+
 
 def credits(c):
     s = c.user.subscription.get()
